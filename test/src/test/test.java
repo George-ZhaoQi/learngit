@@ -8,7 +8,9 @@ public class test {
 		for(int i=0; i<j ; i++) {
 			System.out.println("a!");
 		}
-		
+		if(j==2){
+			System.out.println("a!");
+		}
 	}
 
 }
